@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ari456
+- 👋 Hi, I’m Ariana
 - 👀 I’m interested in web development, fashion design, ballet, and hiking
 - 🌱 I’m currently learning JS, HTML, and CSS
 - 💞️ I’m looking to collaborate on anything that will help me improve my coding skills!
